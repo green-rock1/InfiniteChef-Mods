@@ -1,0 +1,6 @@
+addingredient("tamrillo",{
+ color:9e0918,
+ innercolor:e07e3d,
+ type:tomato
+ shape:fruit_long_stem
+});
